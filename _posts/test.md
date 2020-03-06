@@ -9,7 +9,7 @@ cover:
 ---
 # 测试
 ### ***んんんんんんんんんんんんんんんんんんんんんんんんん❓***  
-![](pictures/P2.png)
-![](pictures/P1.png)
+![](../assets/img/P2.png)
+![](../assets/img/P1.png)
 
 
